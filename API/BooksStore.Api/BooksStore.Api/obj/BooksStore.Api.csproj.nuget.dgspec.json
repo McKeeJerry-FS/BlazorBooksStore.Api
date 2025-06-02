@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "I:\\Personally Created Project\\BlazorBooksStore.Api\\API\\BooksStore.Api\\BooksStore.Api\\BooksStore.Api.csproj": {}
+    "C:\\Users\\USER\\source\\repos\\McKeeJerry-FS\\BlazorBooksStore.Api\\API\\BooksStore.Api\\BooksStore.Api\\BooksStore.Api.csproj": {}
   },
   "projects": {
-    "I:\\Personally Created Project\\BlazorBooksStore.Api\\API\\BooksStore.Api\\BooksStore.Api\\BooksStore.Api.csproj": {
+    "C:\\Users\\USER\\source\\repos\\McKeeJerry-FS\\BlazorBooksStore.Api\\API\\BooksStore.Api\\BooksStore.Api\\BooksStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\Personally Created Project\\BlazorBooksStore.Api\\API\\BooksStore.Api\\BooksStore.Api\\BooksStore.Api.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\McKeeJerry-FS\\BlazorBooksStore.Api\\API\\BooksStore.Api\\BooksStore.Api\\BooksStore.Api.csproj",
         "projectName": "BooksStore.Api",
-        "projectPath": "I:\\Personally Created Project\\BlazorBooksStore.Api\\API\\BooksStore.Api\\BooksStore.Api\\BooksStore.Api.csproj",
-        "packagesPath": "C:\\Users\\jmckee\\.nuget\\packages\\",
-        "outputPath": "I:\\Personally Created Project\\BlazorBooksStore.Api\\API\\BooksStore.Api\\BooksStore.Api\\obj\\",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\McKeeJerry-FS\\BlazorBooksStore.Api\\API\\BooksStore.Api\\BooksStore.Api\\BooksStore.Api.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\McKeeJerry-FS\\BlazorBooksStore.Api\\API\\BooksStore.Api\\BooksStore.Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jmckee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +27,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -46,9 +53,21 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.36.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.36.0, )"
             }
           },
           "imports": [

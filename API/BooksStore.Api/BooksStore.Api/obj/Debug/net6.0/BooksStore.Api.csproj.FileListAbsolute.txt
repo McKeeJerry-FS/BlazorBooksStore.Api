@@ -28,3 +28,43 @@ I:\Personally Created Project\BlazorBooksStore.Api\Api\BooksStore.Api\BooksStore
 I:\Personally Created Project\BlazorBooksStore.Api\Api\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\BooksStore.Api.pdb
 I:\Personally Created Project\BlazorBooksStore.Api\Api\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\BooksStore.Api.genruntimeconfig.cache
 I:\Personally Created Project\BlazorBooksStore.Api\Api\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\ref\BooksStore.Api.dll
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\BooksStore.Api.staticwebassets.endpoints.json
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\BooksStore.Api.exe
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\BooksStore.Api.deps.json
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\BooksStore.Api.runtimeconfig.json
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\BooksStore.Api.dll
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\BooksStore.Api.pdb
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\BooksStore.Api.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\BooksStore.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\BooksStore.Api.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\BooksStore.Api.AssemblyInfo.cs
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\BooksStore.Api.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\BooksStore.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\BooksStore.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\BooksStore.Api.sourcelink.json
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\scopedcss\bundle\BooksStore.Api.styles.css
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\staticwebassets.build.json.cache
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\BooksSto.89165976.Up2Date
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\BooksStore.Api.dll
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\refint\BooksStore.Api.dll
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\BooksStore.Api.pdb
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\BooksStore.Api.genruntimeconfig.cache
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\ref\BooksStore.Api.dll
+C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
