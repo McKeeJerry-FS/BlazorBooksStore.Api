@@ -68,3 +68,12 @@ C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api
 C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\BooksStore.Api.genruntimeconfig.cache
 C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\ref\BooksStore.Api.dll
 C:\Users\USER\source\repos\McKeeJerry-FS\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+I:\Personally Created Project\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+I:\Personally Created Project\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+I:\Personally Created Project\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\Personally Created Project\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+I:\Personally Created Project\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+I:\Personally Created Project\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Personally Created Project\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+I:\Personally Created Project\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+I:\Personally Created Project\BlazorBooksStore.Api\API\BooksStore.Api\BooksStore.Api\obj\Debug\net6.0\BooksStore.Api.sourcelink.json
