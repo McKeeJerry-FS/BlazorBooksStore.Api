@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\McKeeJerry-FS\\BlazorBooksStore.Api\\API\\BooksStore.Api\\BooksStore.Api\\BooksStore.Api.csproj": {}
+    "I:\\Personally Created Project\\BlazorBooksStore.Api\\API\\BooksStore.Api\\BooksStore.Api\\BooksStore.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\McKeeJerry-FS\\BlazorBooksStore.Api\\API\\BooksStore.Api\\BooksStore.Api\\BooksStore.Api.csproj": {
+    "I:\\Personally Created Project\\BlazorBooksStore.Api\\API\\BooksStore.Api\\BooksStore.Api\\BooksStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\McKeeJerry-FS\\BlazorBooksStore.Api\\API\\BooksStore.Api\\BooksStore.Api\\BooksStore.Api.csproj",
+        "projectUniqueName": "I:\\Personally Created Project\\BlazorBooksStore.Api\\API\\BooksStore.Api\\BooksStore.Api\\BooksStore.Api.csproj",
         "projectName": "BooksStore.Api",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\McKeeJerry-FS\\BlazorBooksStore.Api\\API\\BooksStore.Api\\BooksStore.Api\\BooksStore.Api.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\McKeeJerry-FS\\BlazorBooksStore.Api\\API\\BooksStore.Api\\BooksStore.Api\\obj\\",
+        "projectPath": "I:\\Personally Created Project\\BlazorBooksStore.Api\\API\\BooksStore.Api\\BooksStore.Api\\BooksStore.Api.csproj",
+        "packagesPath": "C:\\Users\\jmckee\\.nuget\\packages\\",
+        "outputPath": "I:\\Personally Created Project\\BlazorBooksStore.Api\\API\\BooksStore.Api\\BooksStore.Api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\USER\\NuGet.Config",
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\jmckee\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,9 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
